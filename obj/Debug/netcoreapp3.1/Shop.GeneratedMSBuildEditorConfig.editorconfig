@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Shop
-build_property.ProjectDir = c:\dev\shop\
+build_property.ProjectDir = C:\Dev\Shop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
